@@ -1,0 +1,28 @@
+footer {
+    background-color: #2B4A61DE;
+    color: white;
+    height: 223px;
+    font-family: 'Inter', sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.footer-logo {
+    padding-top: 50px;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 100px;
+}

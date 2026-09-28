@@ -1,0 +1,73 @@
+body {
+    margin: auto 0;
+    padding: auto 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.citata {
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    font-family: 'Inter, sans-serif';
+
+}
+
+.citata-title {
+    font-style: 36px;
+    font-weight: 400;
+    color: #141414;
+}
+
+.autor {
+    font-weight: 400;
+    font-style: 24px;
+}
+
+.navi {
+    background-image: url(/img/skali-litayut.webp);
+    background-repeat: no-repeat;
+    height: 704px;
+    font-family: 'Headland One', sans-serif;
+}
+
+.navi-container {
+    text-align: center;
+}
+
+.navi-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 1000px;
+    align-content: center;
+    margin-left: 210px;
+}
+
+.navi-card {
+    background-color: #FFFFFFB2;
+    width: 320px;
+    height: 240px;
+    align-items: center;
+    text-align: center;
+}
+
+.navi-title {
+    padding-top: 58px;
+    font-weight: 400;
+    font-size: 32px;
+    color: #141414;
+}
+
+.navi-text {
+    font-style: 24px;
+    font-weight: 400;
+    color: #141414;
+}
+

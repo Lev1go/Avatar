@@ -15,23 +15,23 @@ a {
     height: 200px;
     text-align: center;
     align-items: center;
-    font-family: 'Inter, sans-serif';
+    font-family: 'Inter', sans-serif;
 
 }
 
 .citata-title {
-    font-style: 36px;
+    font-size: 36px;
     font-weight: 400;
     color: #141414;
 }
 
 .autor {
     font-weight: 400;
-    font-style: 24px;
+    font-size: 24px;
 }
 
 .navi {
-    background-image: url(/img/skali-litayut.webp);
+    background-image: url(./img/skali-litayut.webp);
     background-repeat: no-repeat;
     height: 704px;
     font-family: 'Headland One', sans-serif;
@@ -66,7 +66,7 @@ a {
 }
 
 .navi-text {
-    font-style: 24px;
+    font-size: 24px;
     font-weight: 400;
     color: #141414;
 }

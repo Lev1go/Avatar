@@ -31,13 +31,15 @@ a {
 }
 
 .navi {
-    background-image: url(./img/skali-litayut.webp);
-    background-repeat: no-repeat;
     height: 704px;
     font-family: 'Headland One', sans-serif;
 }
 
 .navi-container {
+    width: 1440px;
+    height: 704px;
+    background-image: url("https://raw.githubusercontent.com/Lev1go/Avatar/main/img/avatar.png");
+    background-repeat: no-repeat;
     text-align: center;
 }
 
